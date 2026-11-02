@@ -1,9 +1,9 @@
-version: 1.0.0
 info:
   model: int-scaffold
 packages:
-- name: TestProVerProject
+- gitBranch: release/1.0.1
   gitServerName: prabhakaribm_shared
   gitUrl: https://github.com/prabhakaribm
   gitUsername: prabhakaribm
-  gitBranch: release/1.0.0
+  name: TestProVerProject
+version: 1.0.1
